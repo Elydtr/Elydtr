@@ -1,5 +1,6 @@
 ### Hi there 👋, Mi nombre es Raul
-![](https://github.com/Elydtr/Aprendiendo_PY/issues/1#issue-3028886557)
+
+![WhatsApp Image 2025-04-29 at 11 24 08](https://github.com/user-attachments/assets/ed9ad2f0-efc3-4894-a502-43206659b1a6)
 
 Estoy aprendiendo a programar
 
