@@ -1,6 +1,7 @@
 ### Hola 👋, My name is Raul
-#### Soy ingeniero civil, aprediendo a programar
-![Soy ingeniero civil, aprediendo a programar](https://github.com/Elydtr/Aprendiendo_PY/issues/1#issue-3028886557)
+#### Soy ingeniero civil, aprendiendo a programar
+![Soy ingeniero civil, aprediendo a programar]
+(https://github.com/Elydtr/Aprendiendo_PY/issues/1#issue-3028886557)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
