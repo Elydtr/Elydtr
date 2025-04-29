@@ -1,7 +1,6 @@
 ### Hola 👋, My name is Raul
 #### Soy ingeniero civil, aprendiendo a programar
-
-(https://github.com/Elydtr/Aprendiendo_PY/issues/1#issue-3028886557)
+![](https://github.com/Elydtr/Aprendiendo_PY/issues/1#issue-3028886557)
 
 
 
